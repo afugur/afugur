@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Furkan UĞUR</h1>
 <h3 align="center">Full Stack Developer in UNI-CONN</h3>
 
-<img align="left" alt="Coding" width="1000" src="https://media.tenor.com/Sfv_aOoJO4oAAAAd/among-us.gif">
+<img align="left" alt="Coding" width="800" src="https://media.tenor.com/Sfv_aOoJO4oAAAAd/among-us.gif">
 
 
 
