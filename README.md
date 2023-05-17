@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Furkan UĞUR</h1>
 <h3 align="center">Full Stack Developer in UNI-CONN</h3>
 
-<img align="right" alt="Coding" width="400", src="https://media.tenor.com/Sfv_aOoJO4oAAAAd/among-us.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Sfv_aOoJO4oAAAAd/among-us.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afugur&label=Profile%20views&color=0e75b6&style=flat" alt="afugur" /> </p>
 
