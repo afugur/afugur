@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Furkan UĞUR</h1>
-<h3 align="center">Front End Developer in UniConn</h3>
+<h3 align="center">Front End Developer</h3>
 
 <img align="bottom" margin="auto" alt="Coding" width="400" src="https://media.tenor.com/Sfv_aOoJO4oAAAAd/among-us.gif">
 
